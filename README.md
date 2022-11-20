@@ -1,4 +1,4 @@
-Understanding the Monkeypox Discourse on Twitter using Topic Modeling: Experiments with BERTopic and Latent Dirichlet Allocation (LDA) Topic Modeling Techniques
+Understanding the Monkeypox Discourse using Topic Modeling with BERTopic and Latent Dirichlet Allocation (LDA)
 ===
 
 Abstract
